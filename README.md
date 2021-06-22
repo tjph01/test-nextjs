@@ -1,4 +1,4 @@
-## Thomas Henocque Tempo Test Project 6-21-21
+## Thomas Henocque Test Project 6-21-21
 
 This project was built with [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
