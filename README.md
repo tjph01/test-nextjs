@@ -4,7 +4,7 @@ This project was built with [Next.js](https://nextjs.org/) project bootstrapped 
 
 with my limited knowledge of React this framework allowed me to get up and running quickly with Routing States SASS etc.
 
-The code for this app leaves mainly in the following folders:
+The code for this app lives mainly in the following folders:
 
 - pages/
 - pages/team/
